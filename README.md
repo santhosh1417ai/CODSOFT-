@@ -1,2 +1,2 @@
-# codsoft-task1-
+# codsoft-project
 TITANIC SURVIVAL PREDICTION 
